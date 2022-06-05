@@ -17,3 +17,13 @@ Projects written in Python will be collected in this repo.
  - In this project, computer tries to guess the number that is had by mind. 
 
 ![ComputerGuess](https://github.com/AyselAydin/python-project/blob/main/3-ComputerGuessNumber/image.png?raw=true)
+
+4-RockPaperScissors
+ - In this project, the player choices the option among rock, paper and scissors. After that computer select. The winner is decided as per the rules.
+
+ Rules;
+ - Rock beats scissors
+ - Scissors beats paper
+ - Paper beats rock
+
+![RockPaperScissors](https://github.com/AyselAydin/python-project/blob/main/4-RockPaperScissors/image.png?raw=true)
