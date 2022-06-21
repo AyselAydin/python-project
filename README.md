@@ -27,3 +27,8 @@ Projects written in Python will be collected in this repo.
  - Paper beats rock
 
 ![RockPaperScissors](https://github.com/AyselAydin/python-project/blob/main/4-RockPaperScissors/image.png?raw=true)
+
+5-Advanced RockPaperScissors
+ - Same as above features
+
+![AdvancedRockPaperScissors](https://github.com/AyselAydin/python-project/blob/main/5-AdvancedRockPaperScissors/image.png?raw=true)
